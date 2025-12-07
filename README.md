@@ -95,7 +95,7 @@ cd model_training
 resnet50_training.py  
 
 ### MATLAB Communication Simulation
-results/matlab_simulation.m  
+alert_system/adaptive_modulation_simulation.m  
 
 ### WhatsApp Alert Module
 alert_system/whatsapp_alert.py  
