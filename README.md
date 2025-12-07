@@ -91,14 +91,15 @@ Screenshots are available in the results/alert_screenshots folder.
 ## How to Run
 
 ### Accident Detection Model
-cd model_training  
-resnet50_training.py  
+cd model_training
+python resnet50_training.py  
+[model_training](model_training/)
 
 ### MATLAB Communication Simulation
-alert_system/adaptive_modulation_simulation.m  
+matlab alert_system/adaptive_modulation_simulation.m 
 
 ### WhatsApp Alert Module
-alert_system/whatsapp_alert.py  
+python alert_system/whatsapp_alert.py  
 
 ---
 
@@ -111,7 +112,7 @@ GitHub: Documentation & version control
 ---
 
 ## Full Report
-report/dcs_final_report.pdf  
+[📘 Full Project Report](report/dcs_final_report.pdf) 
 
 ---
 
