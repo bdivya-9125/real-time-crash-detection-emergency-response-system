@@ -92,13 +92,13 @@ Screenshots are available in the results/alert_screenshots folder.
 
 ### Accident Detection Model
 cd model_training  
-jupyter notebook resnet50_training.ipynb  
+resnet50_training.py  
 
 ### MATLAB Communication Simulation
-matlab_simulation.m  
+results/matlab_simulation.m  
 
 ### WhatsApp Alert Module
-python whatsapp_alert.py  
+alert_system/whatsapp_alert.py  
 
 ---
 
