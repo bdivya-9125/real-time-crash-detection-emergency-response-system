@@ -75,7 +75,7 @@ Emergency alerts include:
 4. If no hospital confirms:  
    - Alert escalates to a backup (fourth) hospital  
 
-Screenshots are available in the results/alert_screenshots folder.
+Screenshots are available in the alert_system/alert_screenshots folder.
 
 ---
 
